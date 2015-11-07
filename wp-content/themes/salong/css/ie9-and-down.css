@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+/*只针对IE9+8+7*/
+/*社交提示*/
+.social-icons span i, .footer-icons span i{display: none;}
+/*页脚小工具*/
+.widgets-right{margin-right: 0;}

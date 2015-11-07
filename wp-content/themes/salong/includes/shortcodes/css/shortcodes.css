@@ -1,0 +1,60 @@
+/* 消息盒短代码样式 */
+.yuanfangbox,.qixingbox,.headsetbox,.moviebox,.shotbox,.painterbox,.ideabox,.eventbox,.wpbox,.smilebox{display:block; font-size:14px; line-height:24px; margin: 20px 0 12px 0; padding:12px 25px 25px 80px; background-color: #f4f4f4; position: relative;}
+.yuanfangbox:before,.qixingbox:before,.headsetbox:before,.moviebox:before,.shotbox:before,.painterbox:before,.ideabox:before,.eventbox:before,.wpbox:before,.smilebox:before{position: absolute;top: 16px;left: 16px;font-size: 36px;font-family: 'salong';}
+.yuanfangbox:before{content: '\e844'}
+.qixingbox:before{content: '\e837'}
+.headsetbox:before{content: '\e817'}
+.moviebox:before{content: '\e830'}
+.shotbox:before{content: '\e808'}
+.painterbox:before{content: '\e82b'}
+.ideabox:before{content: '\e803'}
+.eventbox:before{content: '\e833'}
+.wpbox:before{content: '\e820'}
+.smilebox:before{content: '\e81b'}
+/*按钮简码样式*/
+.button { display: -moz-inline-stack; display: inline-block; vertical-align: middle; border: none;height: 32px; line-height: 32px; padding: 0px 25.6px !important; text-decoration: none; text-align: center; margin: 12px 18px 12px 0 !important; color: #fff !important; }
+.red { background-color: #e8543f; }
+.red:hover { background-color: #d9331a; }
+.yellow { background-color: #fa9915;}
+.yellow:hover { background-color: #d87e04;  }
+.green { background-color: #8fcf00;}
+.green:hover { background-color: #6b9c00; }
+.blue { background-color: #0af;}
+.blue:hover { background-color: #008db2; }
+/*列表简码样式*/
+.redlist,.yellowlist,.bluelist,.greenlist{ margin-bottom:20px; }
+.redlist p,.yellowlist p,.bluelist p,.greenlist p,.series p{display: none; }
+.redlist ul li,.yellowlist ul li,.bluelist ul li,.greenlist ul li,.series ul li{ padding:6px 6px 8px 23px; margin: 6px 0; color: #666; background-color: #f4f4f4; position: relative;}
+.redlist ul li:before,.yellowlist ul li:before,.bluelist ul li:before,.greenlist ul li:before,.series ul li:before{content: '';position: absolute;top: 15px;left: 8px;width: 6px;height: 6px;border-radius: 6px;}
+.redlist ul li:before{background-color: #e8543f;}
+.yellowlist ul li:before{background-color: #fa9915;}
+.bluelist ul li:before{background-color: #0af;}
+.greenlist ul li:before{background-color: #8fcf00;}
+.series ul li:before{background-color: #fa9915;}
+/*系列教程*/
+.series{background-color: #f4f4f4;padding: 6px;}
+.series h3{font-weight: bold;font-size: 14px;border-bottom: 1px #e8e8e8 solid;padding: 6px;}
+.series ul{padding: 6px 0;border-top: 1px #fff solid;}
+.series ul li{border-bottom: 1px #e8e8e8 solid;}
+/*其它简码样式*/
+/*flash样式*/
+.flash{ height: 450px; margin: 6px 0 12px 0; width: 100%;text-align: center; }
+/*toggle*/
+.icon-toggle{margin-right: 4px;color: #bbb;}
+.icon-toggle:before{ content: '\e81e';}
+.toggle-box-head .active:before{ content: '\e81f';}
+.gdl-toggle-box { margin: 12px 0; }
+.gdl-toggle-box li{ margin: 6px 0; }
+.gdl-toggle-box div.active{ }
+.toggle-box-head,.toggle-box-content{ background:#f4f4f4; color: #666; border: 1px #eee solid; }
+.toggle-box-head { padding:6px; line-height: 24px !important; font-size: 14px !important; cursor: pointer; }
+.toggle-box-content { padding:10px 30px 10px 37px; overflow: hidden; margin-top:4px; }
+.toggle-box-head-image { width: 24px; height: 24px; float: left; margin-right: 13px; cursor: pointer; }
+/*TABS*/
+#tabwrap { overflow: hidden; width: 100%; margin: 20px auto 12px auto; }
+#tabs li a { float: left; display: block; background-color: #eee; border-top: 2px #eee solid; padding: 10px 24px; color: #666; text-align: center; font-size: 14px; margin-right: 4px; }
+#tabs li a:hover { background-color: #eee; }
+#tabs li.current a { background: #f4f4f4; color: #666; border-top: 2px #0af solid; }
+#tab_content > div { clear: both; padding: 20px; line-height: 30px; color: #666; background-color: #f4f4f4; border-bottom: 1px #eee solid; display: none; }
+#tab_content .current { display: block; }
+#tab_content p { margin: 0 0 20px 0; }

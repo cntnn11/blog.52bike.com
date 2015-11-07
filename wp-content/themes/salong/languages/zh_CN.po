@@ -1,0 +1,1423 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Salong 1.0\n"
+"POT-Creation-Date: 2013-10-19 09:55+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: 萨龙龙 <longyizaifei@163.com>\n"
+"Language-Team: 萨龙龙 <longyizaifei@163.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../comments-ajax.php:26 ../comments-ajax.php:39 ../comments-ajax.php:42
+msgid "Invalid comment status."
+msgstr ""
+
+#: ../comments-ajax.php:36
+msgid "Sorry, comments are closed for this item."
+msgstr "对不起,评论已经关闭。"
+
+#: ../comments-ajax.php:45
+msgid "Password Protected"
+msgstr ""
+
+#: ../comments-ajax.php:72
+msgid "Sorry, you must be logged in to post a comment."
+msgstr ""
+
+#: ../comments-ajax.php:79
+msgid "Error: please fill the required fields (name, email)."
+msgstr ""
+
+#: ../comments-ajax.php:81
+msgid "Error: please enter a valid email address."
+msgstr "* 请输入你的邮件地址"
+
+#: ../comments-ajax.php:85
+msgid "Error: please type a comment."
+msgstr "错误：请输入评论！"
+
+#: ../comments-ajax.php:99
+msgid ""
+"Duplicate comment detected; it looks as though you&#8217;ve already said "
+"that!"
+msgstr ""
+
+#: ../comments-ajax.php:108
+msgid "您发表评论也太快了"
+msgstr ""
+
+#: ../comments-ajax.php:150
+#, php-format
+msgid ""
+"<span class=\"comment-info\">%s</span> <span class=\"says\">回复:</span>"
+msgstr ""
+
+#: ../comments-ajax.php:151
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s 在 %2$s"
+
+#: ../comments-ajax.php:151
+msgid "(Edit)"
+msgstr "（编辑）"
+
+#: ../comments.php:91
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../single-bulletin.php:55 ../single.php:54
+msgid "分页:"
+msgstr ""
+
+#: ../includes/widget.php:338
+msgid "标题："
+msgstr ""
+
+#: ../includes/widget.php:341
+msgid "数量："
+msgstr ""
+
+#: ../includes/functions/contact_form.php:21
+msgid "Wrong Code!"
+msgstr "代码错误！"
+
+#: ../includes/functions/types_bulletin.php:10
+#: ../includes/functions/types_bulletin.php:11
+msgid "公告"
+msgstr ""
+
+#: ../includes/functions/types_bulletin.php:12
+#: ../includes/functions/types_bulletin.php:13
+msgid "添加新公告"
+msgstr ""
+
+#: ../includes/functions/types_bulletin.php:14
+msgid "编辑公告"
+msgstr ""
+
+#: ../includes/functions/types_bulletin.php:15
+msgid "新的公告"
+msgstr ""
+
+#: ../includes/functions/types_bulletin.php:16
+msgid "预览公告"
+msgstr ""
+
+#: ../includes/functions/types_bulletin.php:17
+msgid "搜索公告"
+msgstr ""
+
+#: ../includes/functions/types_bulletin.php:18
+msgid "您还没有发布公告"
+msgstr ""
+
+#: ../includes/functions/types_bulletin.php:19
+msgid "回收站中没有公告"
+msgstr ""
+
+#: ../includes/functions/types_bulletin.php:46
+msgid "公告分类"
+msgstr ""
+
+#: ../includes/functions/types_bulletin.php:47
+msgid "genre"
+msgstr ""
+
+#: ../includes/functions/types_bulletin.php:48
+msgid "搜索分类"
+msgstr ""
+
+#: ../includes/functions/types_bulletin.php:49
+msgid "全部分类"
+msgstr ""
+
+#: ../includes/functions/types_bulletin.php:50
+msgid "父级分类目录"
+msgstr ""
+
+#: ../includes/functions/types_bulletin.php:51
+msgid "父级分类目录:"
+msgstr ""
+
+#: ../includes/functions/types_bulletin.php:52
+msgid "编辑公告分类"
+msgstr ""
+
+#: ../includes/functions/types_bulletin.php:53
+msgid "更新"
+msgstr ""
+
+#: ../includes/functions/types_bulletin.php:54
+msgid "添加新公告分类"
+msgstr ""
+
+#: ../includes/functions/types_bulletin.php:55
+msgid "New Genre Name"
+msgstr "新图片集类型名称"
+
+#~ msgid "Theme Options"
+#~ msgstr "主题选项"
+
+#~ msgid "Header"
+#~ msgstr "头部"
+
+#~ msgid "Logo"
+#~ msgstr "Logo"
+
+#~ msgid "Upload logo for your Website."
+#~ msgstr "给你的网站上传Logo。"
+
+#~ msgid "Favicon"
+#~ msgstr "图标"
+
+#~ msgid ""
+#~ "Upload a 16px by 16px PNG image that will represent your website favicon."
+#~ msgstr "上传一张代表你网张图标的大小为16px*16px PNG的图片。"
+
+#~ msgid "Address Text"
+#~ msgstr "地址文本"
+
+#~ msgid "Provide header address text."
+#~ msgstr "提供页眉地址文本。"
+
+#~ msgid "Las Angeles, AV 123456 - 123.456.7800"
+#~ msgstr "Las Angeles, AV 123456 - 123.456.7800"
+
+#~ msgid "Reservation Text"
+#~ msgstr "预订文本"
+
+#~ msgid "Provide header reservation text."
+#~ msgstr "提供页眉预订文本。"
+
+#~ msgid "Call 023 7526 8539  or Make Online Reservation"
+#~ msgstr "拨打023 7526 8539或在线预订"
+
+#~ msgid "Reservation Button Text"
+#~ msgstr "预订按钮文本"
+
+#~ msgid "Provide header reservation button text."
+#~ msgstr "提供页眉预订按钮文本。"
+
+#~ msgid "MAKE  RESERVATION NOW"
+#~ msgstr "现在预订"
+
+#~ msgid "Reservation Button Target Link"
+#~ msgstr "预订按钮目标链接"
+
+#~ msgid "Provide header reservation button target link."
+#~ msgstr "提供页眉预订按钮目标链接"
+
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgid "Tracking Code"
+#~ msgstr "跟踪代码"
+
+#~ msgid "Paste Google Analytics (or other) tracking code here."
+#~ msgstr "在此粘贴Google Analytics（或其他）跟踪代码。"
+
+#~ msgid "Slider"
+#~ msgstr "幻灯片"
+
+#~ msgid "Slide Image Size"
+#~ msgstr "幻灯片图片大小"
+
+#~ msgid "1st Slide Image"
+#~ msgstr "第一张幻灯片图片"
+
+#~ msgid "Upload 1st slide image for homepage slider."
+#~ msgstr "给首页幻灯片上传第一张幻灯片图片。"
+
+#~ msgid "1st Slide Target Link"
+#~ msgstr "第一张幻灯片目标链接"
+
+#~ msgid "Provide 1st slide target link."
+#~ msgstr "提供第一张幻灯片目标链接。"
+
+#~ msgid "2nd Slide Image"
+#~ msgstr "第二张幻灯片图片"
+
+#~ msgid "Upload 2nd slide image for homepage slider."
+#~ msgstr "给首页幻灯片上传第二张幻灯片图片。"
+
+#~ msgid "2nd Slide Target Link"
+#~ msgstr "第二张幻灯片目标链接"
+
+#~ msgid "Provide 2nd slide target link."
+#~ msgstr "提供第二张幻灯片目标链接。"
+
+#~ msgid "3rd Slide Image"
+#~ msgstr "第三张幻灯片图片"
+
+#~ msgid "Upload 3rd slide image for homepage slider."
+#~ msgstr "给首页幻灯片上传第三张幻灯片图片"
+
+#~ msgid "3rd Slide Target Link"
+#~ msgstr "第三张幻灯片目标链接"
+
+#~ msgid "Provide 3rd slide target link."
+#~ msgstr "提供第三张幻灯片目标链接。"
+
+#~ msgid "4th Slide Image"
+#~ msgstr "第四张幻灯片图片"
+
+#~ msgid "Upload 4th slide image for homepage slider."
+#~ msgstr "给首页幻灯片上传第四张幻灯片图片"
+
+#~ msgid "4th Slide Target Link"
+#~ msgstr "第四张幻灯片目标链接"
+
+#~ msgid "Provide 4th slide target link."
+#~ msgstr "提供第四张幻灯片目标链接。"
+
+#~ msgid "5th Slide Image"
+#~ msgstr "第五张幻灯片图片"
+
+#~ msgid "Upload 5th slide image for homepage slider."
+#~ msgstr "给首页幻灯片上传第五张幻灯片图片"
+
+#~ msgid "5th Slide Target Link"
+#~ msgstr "第五张幻灯片目标链接"
+
+#~ msgid "Provide 5th slide target link."
+#~ msgstr "提供第五张幻灯片目标链接。"
+
+#~ msgid "Home"
+#~ msgstr "首页"
+
+#~ msgid "Do you want to display three columns section on homepage ?"
+#~ msgstr "你想在首页显示三列部分吗？"
+
+#~ msgid "Yes"
+#~ msgstr "是"
+
+#~ msgid "1st Column Heading"
+#~ msgstr "第一列标题"
+
+#~ msgid "Provide 1st Column Heading Text."
+#~ msgstr "提供第一列标题文本。"
+
+#~ msgid "About Elegantia"
+#~ msgstr "关于Elegantia"
+
+#~ msgid "1st Column Image"
+#~ msgstr "第一列图片"
+
+#~ msgid ""
+#~ "Upload 1st column image for homepage. Recommended image size is 226px by "
+#~ "116px."
+#~ msgstr "给首页上传第一列图片。建议图片大小为226px *116px。"
+
+#~ msgid "1st Column Sub Heading"
+#~ msgstr "第一列副标题"
+
+#~ msgid "Provide 1st Column Sub Heading Text."
+#~ msgstr "提供第一列副标题文本。"
+
+#~ msgid "Elegantia Introduction"
+#~ msgstr "Elegantia介绍"
+
+#~ msgid "1st Column Text Content"
+#~ msgstr "第一列文本内容"
+
+#~ msgid "Provide 1st Column Text Content."
+#~ msgstr "提供第一列文本内容。"
+
+#~ msgid "1st Column Read More Text"
+#~ msgstr "第一列阅读更多文本"
+
+#~ msgid "Provide 1st Column Read More Text."
+#~ msgstr "提供第一列阅读更多文本。"
+
+#~ msgid "READ MORE"
+#~ msgstr "阅读更多"
+
+#~ msgid "1st Column Read More Link"
+#~ msgstr "第一列阅读更多链接"
+
+#~ msgid "Provide 1st Column Read More link."
+#~ msgstr "提供第一列阅读更多链接。"
+
+#~ msgid "2nd Column Heading"
+#~ msgstr "第二列标题"
+
+#~ msgid "Provide 2nd Column Heading Text."
+#~ msgstr "提供第二列标题文本。"
+
+#~ msgid "Our Menu"
+#~ msgstr "菜单"
+
+#~ msgid "2nd Column Image"
+#~ msgstr "第二列图片"
+
+#~ msgid ""
+#~ "Upload 2nd column image for homepage. Recommended image size is 226px by "
+#~ "116px."
+#~ msgstr "给首页上传第二列图片。建议图片大小为226px*116px。"
+
+#~ msgid "2nd Column Sub Heading"
+#~ msgstr "第二列副标题"
+
+#~ msgid "Provide 2nd Column Sub Heading Text."
+#~ msgstr "提供第二列副标题文本。"
+
+#~ msgid "Elegantia Food"
+#~ msgstr "Elegantia食品"
+
+#~ msgid "2nd Column Text Content"
+#~ msgstr "第二列文本内容"
+
+#~ msgid "Provide 2nd Column Text Content."
+#~ msgstr "提供第二列文本内容。"
+
+#~ msgid "2nd Column Read More Text"
+#~ msgstr "第二列阅读更多文本"
+
+#~ msgid "Provide 2nd Column Read More Text."
+#~ msgstr "提供第二列阅读更多文本。"
+
+#~ msgid "2nd Column Read More Link"
+#~ msgstr "第二列阅读更多链接"
+
+#~ msgid "Provide 2nd Column Read More link."
+#~ msgstr "提供第二列阅读更多链接。"
+
+#~ msgid "3rd Column Heading"
+#~ msgstr "第三列标题"
+
+#~ msgid "Provide 3rd Column Heading Text."
+#~ msgstr "提供第三列标题文本。"
+
+#~ msgid "Special Events"
+#~ msgstr "特殊活动"
+
+#~ msgid "3rd Column Image"
+#~ msgstr "第三列图片"
+
+#~ msgid ""
+#~ "Upload 3rd column image for homepage. Recommended image size is 226px by "
+#~ "116px."
+#~ msgstr "给首页上传第三列图片。建议图片大小为 226px*116px。"
+
+#~ msgid "3rd Column Sub Heading"
+#~ msgstr "第三列副标题"
+
+#~ msgid "Provide 3rd Column Sub Heading Text."
+#~ msgstr "提供第三列副标题文本。"
+
+#~ msgid "Elegantia Events"
+#~ msgstr "Elegantia活动"
+
+#~ msgid "3rd Column Text Content"
+#~ msgstr "第三列文本内容"
+
+#~ msgid "Provide 3rd Column Text Content."
+#~ msgstr "提供第三列文本内容。"
+
+#~ msgid "3rd Column Read More Text"
+#~ msgstr "第三列阅读更多文本"
+
+#~ msgid "Provide 3rd Column Read More Text."
+#~ msgstr "提供第三列阅读更多文本。"
+
+#~ msgid "3rd Column Read More Link"
+#~ msgstr "第三列阅读更多链接"
+
+#~ msgid "Provide 3rd Column Read More link."
+#~ msgstr "提供第三列阅读更多链接。"
+
+#~ msgid "4rd Column Heading"
+#~ msgstr "第四列标题"
+
+#~ msgid "Provide 4rd Column Heading Text."
+#~ msgstr "提供第四列标题文本。"
+
+#~ msgid "4rd Column Image"
+#~ msgstr "第四列图片"
+
+#~ msgid ""
+#~ "Upload 4rd column image for homepage. Recommended image size is 226px by "
+#~ "116px."
+#~ msgstr "给首页上传第四列图片。建议图片大小为 226px*116px。"
+
+#~ msgid "4rd Column Sub Heading"
+#~ msgstr "第四列副标题"
+
+#~ msgid "Provide 4rd Column Sub Heading Text."
+#~ msgstr "提供第四列副标题文本。"
+
+#~ msgid "4rd Column Text Content"
+#~ msgstr "第四列文本内容"
+
+#~ msgid "Provide 4rd Column Text Content."
+#~ msgstr "提供第四列文本内容。"
+
+#~ msgid "4rd Column Read More Text"
+#~ msgstr "第四列阅读更多文本"
+
+#~ msgid "Provide 4rd Column Read More Text."
+#~ msgstr "提供第四列阅读更多文本。"
+
+#~ msgid "4rd Column Read More Link"
+#~ msgstr "第四列阅读更多链接"
+
+#~ msgid "Provide 4rd Column Read More link."
+#~ msgstr "提供第四列阅读更多链接。"
+
+#~ msgid "Do you want to display featured menu items on homepage ?"
+#~ msgstr "你想在首页显示特色菜单项吗？"
+
+#~ msgid "Testimonial Text"
+#~ msgstr "评价文本"
+
+#~ msgid "Provide testimonial text here."
+#~ msgstr "在此提供评价文本。"
+
+#~ msgid "Testimonial Author"
+#~ msgstr "评价作者"
+
+#~ msgid "Provide testimonial author name here."
+#~ msgstr "在此提供评价作者名称。"
+
+#~ msgid "Styling"
+#~ msgstr "样式"
+
+#~ msgid "Body Background"
+#~ msgstr "体背景"
+
+#~ msgid "Body Text Color"
+#~ msgstr "体文本颜色"
+
+#~ msgid "Choose a Body Text Color. Base Theme Color is #909090"
+#~ msgstr "选择一种体文本颜色。基本主题颜色为#909090"
+
+#~ msgid "Headings Color"
+#~ msgstr "标题颜色"
+
+#~ msgid ""
+#~ "Choose a Color for h1, h2, h3, h4, h5 and h6 tags. Base Theme Color is "
+#~ "#824328"
+#~ msgstr "给h1, h2, h3, h4, h5和h6标签选择颜色。基本主题颜色为#824328"
+
+#~ msgid "Selection Background Color"
+#~ msgstr "选择背景颜色"
+
+#~ msgid "Choose a Background Selection Color. Base Theme Color is #f8dda8"
+#~ msgstr "选择背景选择颜色。基本主题颜色为#f8dda8"
+
+#~ msgid "Link Color"
+#~ msgstr "链接颜色"
+
+#~ msgid "Choose a Link Color. Base Theme Color is #d3af80"
+#~ msgstr "选择一种链接颜色。基本主题颜色为#d3af80"
+
+#~ msgid "Link Hover Color"
+#~ msgstr "链接 Hover颜色"
+
+#~ msgid "Choose a Link Hover Color. Base Theme Color is #824328"
+#~ msgstr "仙则一种链接 Hover颜色。基本主题颜色为#824328"
+
+#~ msgid "Quick CSS"
+#~ msgstr "快速CSS"
+
+#~ msgid ""
+#~ "Just want to do some quick CSS changes? Enter them here, they will be "
+#~ "applied to the theme. If you need to change major portions of the theme "
+#~ "please use the custom.css file."
+#~ msgstr ""
+#~ "仅想要改变一些快速CSS？请在此输入他们，他们将被运用到主题。如果你要改变主"
+#~ "要的主题部分，请使用custom.css文件。"
+
+#~ msgid "Social Navigation"
+#~ msgstr "社交"
+
+#~ msgid "Do you want to show social navigation ?"
+#~ msgstr "你想要显示社会导航吗？"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Give Facebook link to display its icon in footer social navigation."
+#~ msgstr "给 Facebook链接来显示在其页脚社会导航的图标。"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Give Twitter link to display its icon in footer social navigation."
+#~ msgstr "给Twitter链接来显示在其页脚社会导航的图标。"
+
+#~ msgid "hotel"
+#~ msgstr "旅馆"
+
+#~ msgid "Give hotel link to display its icon in footer social navigation."
+#~ msgstr "给Twitter链接来显示在其页脚社会导航的图标。"
+
+#~ msgid "yuanfang"
+#~ msgstr "远方的雪山"
+
+#~ msgid "Give yuanfang link to display its icon in footer social navigation."
+#~ msgstr "给RSS链接来显示在其页脚社会导航的图标。"
+
+#~ msgid "salong"
+#~ msgstr "萨龙网络"
+
+#~ msgid "Give salong link to display its icon in footer social navigation."
+#~ msgstr "给RSS链接来显示在其页脚社会导航的图标。"
+
+#~ msgid "Email Address"
+#~ msgstr "邮件地址"
+
+#~ msgid ""
+#~ "Give your email address to display its icon in footer social navigation."
+#~ msgstr "给你的邮件地址来显示在其页脚社会导航的图标。"
+
+#~ msgid "RSS"
+#~ msgstr "RSS"
+
+#~ msgid "Give RSS link to display its icon in footer social navigation."
+#~ msgstr "给RSS链接来显示在其页脚社会导航的图标。"
+
+#~ msgid "Blog"
+#~ msgstr "博客"
+
+#~ msgid "Blog Title"
+#~ msgstr "网站标题"
+
+#~ msgid "Provide the heading words for blog page."
+#~ msgstr "给网站页面提供标题字。"
+
+#~ msgid "Our News"
+#~ msgstr "我们的新闻"
+
+#~ msgid "Do you want to open blog post image in lightbox ?"
+#~ msgstr "你想在 lightbox里打开网站文章图片吗？"
+
+#~ msgid "Our Menu Title"
+#~ msgstr "我们的菜单标题"
+
+#~ msgid "Provide the heading text for Our Menu related pages."
+#~ msgstr "给我们的菜单相关页面提供标题文本。"
+
+#~ msgid "Do you want to open Our Menu item image in lightbox ?"
+#~ msgstr "你想在 lightbox里打开我们的菜单项图片吗？"
+
+#~ msgid "Events"
+#~ msgstr "活动"
+
+#~ msgid "Event Main Title"
+#~ msgstr "活动主标题"
+
+#~ msgid "Provide the heading text for Event related pages."
+#~ msgstr "给活动相关页面提供标题文本。"
+
+#~ msgid "Do you want to open Event image in lightbox ?"
+#~ msgstr "你想在 lightbox里打开活动图片吗？"
+
+#~ msgid "Contact"
+#~ msgstr "联系"
+
+#~ msgid "Do you want to show Google Map on contact page template?"
+#~ msgstr "你想在联系页面模板上显示Google地图吗？"
+
+#~ msgid "Google Map Latitude"
+#~ msgstr "Google地图纬度"
+
+#~ msgid "Enter Google Map Latitude"
+#~ msgstr "输入oogle地图纬度"
+
+#~ msgid "Google Map Longitude"
+#~ msgstr "oogle地图经度"
+
+#~ msgid "Enter Google Map Longitude"
+#~ msgstr "输入oogle地图经度"
+
+#~ msgid "Google Map Zoom"
+#~ msgstr "Google Map缩放"
+
+#~ msgid "Enter Google Map Zoom Level. Example: 17"
+#~ msgstr "输入Google地图他缩放级别，例如：17"
+
+#~ msgid "Address"
+#~ msgstr "地址"
+
+#~ msgid "This address will appear above contact form section."
+#~ msgstr "该地址将出现在以上联系表格部分。"
+
+#~ msgid "Contact Form Heading"
+#~ msgstr "联系表格标题"
+
+#~ msgid "Enter heading for your contact form."
+#~ msgstr "给你的联系表格输入标题"
+
+#~ msgid "Contact Us"
+#~ msgstr "联系我们"
+
+#~ msgid "Contact Form Text Below Heading"
+#~ msgstr "联系表格Text Below标题"
+
+#~ msgid "Enter text that will appear below heading and above contact form."
+#~ msgstr "输入在标题下面联系表格上面出现的文本。"
+
+#~ msgid ""
+#~ "Fill out the form below to send us a message and we will get back to you "
+#~ "ASAP."
+#~ msgstr "填写以下表格给我们发信息，我们将尽快回复你。"
+
+#~ msgid "Contact Email"
+#~ msgstr "联系邮件"
+
+#~ msgid ""
+#~ "Enter target email address that will receive messages from contact form."
+#~ msgstr "输入能从联系表格上接收信息的目标邮件地址。"
+
+#~ msgid "Reservation"
+#~ msgstr "预订"
+
+#~ msgid "Reservation Form Heading"
+#~ msgstr "预订表格标题"
+
+#~ msgid "Enter heading for your reservation form."
+#~ msgstr "给你的预订表格输入标题"
+
+#~ msgid "Make Reservation Now"
+#~ msgstr "现在预订"
+
+#~ msgid "Reservation Form Text Below Heading"
+#~ msgstr "预订表格Text Below标题"
+
+#~ msgid ""
+#~ "Enter text that will appear below heading and above reservation form."
+#~ msgstr "输入将出现在标题下方预订表格上方的文本。"
+
+#~ msgid "Fill out the form below to make reservation"
+#~ msgstr "填写以下表格预订"
+
+#~ msgid "Reservation Email"
+#~ msgstr "预订邮件"
+
+#~ msgid ""
+#~ "Enter target email address that will receive reservation requests from "
+#~ "customers."
+#~ msgstr "输入从顾客那里接收预订请求的目标邮件地址。"
+
+#~ msgid "Footer"
+#~ msgstr "页脚"
+
+#~ msgid "Footer Address Text"
+#~ msgstr "页脚地址文本"
+
+#~ msgid "Enter text that will appear on the right side of footer."
+#~ msgstr "输入将出现在页脚右边的文本。"
+
+#~ msgid "Copyright Text"
+#~ msgstr "版权文本"
+
+#~ msgid "Enter Footer Copyright Text here."
+#~ msgstr "在此输入页脚版权文本。"
+
+#~ msgid "Homepage Sidebar"
+#~ msgstr "首页边栏"
+
+#~ msgid ""
+#~ "This sidebar is displayed in the homepage. (sidebar template required)"
+#~ msgstr "这个边栏显示在首页"
+
+#~ msgid "Blog Sidebar"
+#~ msgstr "网站标题"
+
+#~ msgid "This sidebar is displayed on all Blog pages."
+#~ msgstr "这个边栏显示在所有的博客页面"
+
+#~ msgid "Contact Sidebar"
+#~ msgstr "联系邮件"
+
+#~ msgid "This sidebar is displayed on the contact page."
+#~ msgstr "这个边栏显示在联系页面"
+
+#~ msgid "Search Results Sidebar"
+#~ msgstr "搜索边栏"
+
+#~ msgid "This sidebar is displayed on the Search Results page."
+#~ msgstr "这个边栏显示在搜索页面"
+
+#~ msgid "First Footer Column"
+#~ msgstr "第一页脚边栏"
+
+#~ msgid "First Footer Column."
+#~ msgstr "第一页脚边栏。"
+
+#~ msgid "Second Footer Column"
+#~ msgstr "第二页脚边栏"
+
+#~ msgid "Second Footer Column."
+#~ msgstr "第二页脚边栏。"
+
+#~ msgid "Third Footer Column"
+#~ msgstr "第三页脚边栏"
+
+#~ msgid "Third Footer Column."
+#~ msgstr "第一页脚边栏。"
+
+#~ msgid "Fourth Footer Column"
+#~ msgstr "第四页脚边栏"
+
+#~ msgid "Fourth Footer Column."
+#~ msgstr "第四页脚边栏"
+
+#~ msgid "404: Page Not Found"
+#~ msgstr "404:没有找到页面"
+
+#~ msgid "The page you are looking for is not here!"
+#~ msgstr "你要找的页面不在这里！"
+
+#~ msgid "Please try top navigation for what you are looking for!"
+#~ msgstr "请为你要找的东西试试顶级导航！"
+
+#~ msgid "All posts in"
+#~ msgstr " 归档下的所有文章"
+
+#~ msgid "All posts tagged "
+#~ msgstr "所有标签了的文章"
+
+#~ msgid "Archive for"
+#~ msgstr "为...归档"
+
+#~ msgid "All posts by"
+#~ msgstr "...的所有文章"
+
+#~ msgid "Blog Archives"
+#~ msgstr "站点归档"
+
+#~ msgid "No Posts Found"
+#~ msgstr "没有找到文章"
+
+#~ msgid ""
+#~ "This post is password protected. Enter the password to view any comments."
+#~ msgstr "该文章已密码保护。输入密码查看任何评论。"
+
+#~ msgid "No Comment"
+#~ msgstr "没有评论"
+
+#~ msgid "One Comment"
+#~ msgstr "一条评论"
+
+#~ msgid "(%) Comments"
+#~ msgstr "(%)评论"
+
+#~ msgid "First"
+#~ msgstr "首先"
+
+#~ msgid "Previous"
+#~ msgstr "之前的"
+
+#~ msgid "Next"
+#~ msgstr "下一个"
+
+#~ msgid "Last"
+#~ msgstr "最后"
+
+#~ msgid "Pages"
+#~ msgstr "页面"
+
+#~ msgid "No Posts Found, Please try another search term!"
+#~ msgstr "没有找到页面，请试试另外的搜索项！"
+
+#~ msgid "Start Date:"
+#~ msgstr "起始日期："
+
+#~ msgid "Dates:"
+#~ msgstr "日期："
+
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgid "Time:"
+#~ msgstr "时间："
+
+#~ msgid "Our Team"
+#~ msgstr "我们的团队"
+
+#~ msgid "Posted in:"
+#~ msgstr "发表于："
+
+#~ msgid "0 Comments"
+#~ msgstr "0条评论"
+
+#~ msgid "1 Comment"
+#~ msgstr "1条评论"
+
+#~ msgid "% Comments"
+#~ msgstr "%评论"
+
+#~ msgid "Your Name"
+#~ msgstr "你的名称"
+
+#~ msgid "* Please enter your name"
+#~ msgstr "*请输入你的名称"
+
+#~ msgid "Phone Number"
+#~ msgstr "电话号码"
+
+#~ msgid "Email"
+#~ msgstr "电子邮件"
+
+#~ msgid "Subject"
+#~ msgstr "主题"
+
+#~ msgid "Message"
+#~ msgstr "留言"
+
+#~ msgid "* Please enter your message"
+#~ msgstr "* 请输入你的留言"
+
+#~ msgid "Are you human?"
+#~ msgstr "你是人吗？"
+
+#~ msgid "* Please enter the code characters displayed in image!"
+#~ msgstr "* 请输入显示在图片中的代码字符！"
+
+#~ msgid "Send Message"
+#~ msgstr "发送信息"
+
+#~ msgid "No Event Found !"
+#~ msgstr "没有找到活动！"
+
+#~ msgid "Name"
+#~ msgstr "名称"
+
+#~ msgid "* Please enter your Name"
+#~ msgstr "*请输入你的名称"
+
+#~ msgid "Phone"
+#~ msgstr "电话"
+
+#~ msgid "* Please enter your Phone number"
+#~ msgstr "*请输入你的电话号码"
+
+#~ msgid "* Please enter your Email address"
+#~ msgstr "*请输入你的邮件地址"
+
+#~ msgid "Number of Guests"
+#~ msgstr "顾客编号"
+
+#~ msgid "* Please enter Number of Guests"
+#~ msgstr "*请输入顾客编号"
+
+#~ msgid "Date"
+#~ msgstr "日期"
+
+#~ msgid "* Please choose Date"
+#~ msgstr "*请选择日期"
+
+#~ msgid "Time"
+#~ msgstr "时间"
+
+#~ msgid "* Please specify Time"
+#~ msgstr "*请指定时间"
+
+#~ msgid "Special Request"
+#~ msgstr "特殊要求"
+
+#~ msgid "* Please enter the code characters displayed in image"
+#~ msgstr "*请输入在图片中显示的代码字符"
+
+#~ msgid "MAKE RESERVATION NOW"
+#~ msgstr "现在预订"
+
+#~ msgid "Loading..."
+#~ msgstr "下载,,,"
+
+#~ msgid "You Have Received a Message From "
+#~ msgstr "你收到一条来自...的信息"
+
+#~ msgid "You have Received a message from: "
+#~ msgstr "你收到一条来自...的信息："
+
+#~ msgid "Their additional message is as follows."
+#~ msgstr "他们附加的信息如下："
+
+#~ msgid "You can contact "
+#~ msgstr "你可以联系"
+
+#~ msgid " via email, "
+#~ msgstr "通过邮件，"
+
+#~ msgid "Message Sent Successfully!"
+#~ msgstr "信息发送成功！"
+
+#~ msgid "Server Error: WordPress mail method failed!"
+#~ msgstr "服务器错误：WordPress邮件方法失败！"
+
+#~ msgid "Invalid Request !"
+#~ msgstr "无效请求！"
+
+#~ msgid "You Have Received an Reservation Request From : "
+#~ msgstr "你收到一条来自...的预订请求："
+
+#~ msgid "You have Received an Reservation Request From "
+#~ msgstr "你收到一条来自...的预订请求"
+
+#~ msgid "Name: "
+#~ msgstr "名称："
+
+#~ msgid "Phone: "
+#~ msgstr "电话："
+
+#~ msgid "Email: "
+#~ msgstr "邮件："
+
+#~ msgid "Number of Guests: "
+#~ msgstr "顾客编号："
+
+#~ msgid "Reservation Date: "
+#~ msgstr "预订日期："
+
+#~ msgid "Reservation Time: "
+#~ msgstr "预订时间："
+
+#~ msgid " via email "
+#~ msgstr "通过邮件"
+
+#~ msgid " OR via phone "
+#~ msgstr "或通过电话"
+
+#~ msgid "Pingback:"
+#~ msgstr "Pingback："
+
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "你的评论正等待缓冲。"
+
+#~ msgid "Edit"
+#~ msgstr "编辑"
+
+#~ msgid "Event"
+#~ msgstr "活动"
+
+#~ msgid "Add New"
+#~ msgstr "添加新的"
+
+#~ msgid "Add New Event"
+#~ msgstr "添加新活动"
+
+#~ msgid "Edit Event"
+#~ msgstr "编辑活动"
+
+#~ msgid "New Event"
+#~ msgstr "新活动"
+
+#~ msgid "View Event"
+#~ msgstr "查看活动"
+
+#~ msgid "Search Event"
+#~ msgstr "搜索活动"
+
+#~ msgid "No Events found"
+#~ msgstr "没有找到活动"
+
+#~ msgid "No Events found in Trash"
+#~ msgstr "没有在回收站里找到活动"
+
+#~ msgid "events"
+#~ msgstr "活动"
+
+#~ msgid "Event Title"
+#~ msgstr "活动标题"
+
+#~ msgid "Event Date"
+#~ msgstr "活动日期"
+
+#~ msgid "Event Time"
+#~ msgstr "活动时间"
+
+#~ msgid "Event Thumbnail"
+#~ msgstr "活动缩略图"
+
+#~ msgid "No Image"
+#~ msgstr "没有图片"
+
+#~ msgid "Event Date and Time"
+#~ msgstr "活动日期和时间"
+
+#~ msgid "Start Date"
+#~ msgstr "起始日期"
+
+#~ msgid "Start Time"
+#~ msgstr "起始时间"
+
+#~ msgid "Use 24h format (7pm = 19:00)"
+#~ msgstr "采用24小时格式(7pm = 19:00)"
+
+#~ msgid "End Date"
+#~ msgstr "结束日期"
+
+#~ msgid "End Time"
+#~ msgstr "结束时间"
+
+#~ msgid "FAQs"
+#~ msgstr "FAQs"
+
+#~ msgid "FAQ"
+#~ msgstr "FAQ"
+
+#~ msgid "Add New FAQ"
+#~ msgstr "添加新FAQ"
+
+#~ msgid "Edit FAQ"
+#~ msgstr "编辑FAQ"
+
+#~ msgid "New FAQ"
+#~ msgstr "新FAQ"
+
+#~ msgid "View FAQ"
+#~ msgstr "查看那FAQ"
+
+#~ msgid "Search FAQ"
+#~ msgstr "搜索FAQ"
+
+#~ msgid "No FAQs found"
+#~ msgstr "没有找到FAQ"
+
+#~ msgid "No FAQs found in Trash"
+#~ msgstr "回收站里面有找到FAQ"
+
+#~ msgid "faq"
+#~ msgstr "faq"
+
+#~ msgid "Gallery Items"
+#~ msgstr "图片集"
+
+#~ msgid "Gallery Item"
+#~ msgstr "画廊"
+
+#~ msgid "Add New Gallery Item"
+#~ msgstr "添加新图片集"
+
+#~ msgid "Edit Gallery Item"
+#~ msgstr "编辑图片集"
+
+#~ msgid "New Gallery Item"
+#~ msgstr "新图片集"
+
+#~ msgid "View Gallery Item"
+#~ msgstr "查看图片集"
+
+#~ msgid "Search Gallery Items"
+#~ msgstr "搜索图片集"
+
+#~ msgid "No Gallery Item found"
+#~ msgstr "没有找到图片集"
+
+#~ msgid "No Gallery Item found in Trash"
+#~ msgstr "回收站里没有找到图片集"
+
+#~ msgid "gallery-item"
+#~ msgstr "图片集"
+
+#~ msgid "Gallery Item Types"
+#~ msgstr "图片集类型"
+
+#~ msgid "Gallery Item Type"
+#~ msgstr "图片集类型"
+
+#~ msgid "Search Gallery Item Types"
+#~ msgstr "搜索图片集类型"
+
+#~ msgid "Popular Gallery Item Types"
+#~ msgstr "热门图片集类型"
+
+#~ msgid "All Gallery Item Types"
+#~ msgstr "所有图片集类型"
+
+#~ msgid "Parent Gallery Item Type"
+#~ msgstr "上级图片集类型"
+
+#~ msgid "Parent Gallery Item Type:"
+#~ msgstr "上级图片集类型："
+
+#~ msgid "Edit Gallery Item Type"
+#~ msgstr "编辑图片集类型"
+
+#~ msgid "Update Gallery Item Type"
+#~ msgstr "更新图片集类型"
+
+#~ msgid "Add New Gallery Item Type"
+#~ msgstr "添加新的图片集类型"
+
+#~ msgid "Separate Gallery Item Types with commas"
+#~ msgstr "用逗号隔开图片集类型"
+
+#~ msgid "Add or Remove Gallery Item Types"
+#~ msgstr "添加或者删除图片集类型"
+
+#~ msgid "Choose from the most used Gallery Item Types"
+#~ msgstr "从最常用的图片集类型中选择"
+
+#~ msgid "gallery-item-type"
+#~ msgstr "图片集类型"
+
+#~ msgid "Gallery Item Title"
+#~ msgstr "图片集标题"
+
+#~ msgid "Thumbnail"
+#~ msgstr "缩略"
+
+#~ msgid "Publish Time"
+#~ msgstr "发布时间"
+
+#~ msgid "No Thumbnail"
+#~ msgstr "没有缩略"
+
+#~ msgid "Food Menu"
+#~ msgstr "食品菜单"
+
+#~ msgid "Menu Item"
+#~ msgstr "菜单项目"
+
+#~ msgid "Add New Menu Item"
+#~ msgstr "添加菜单项目"
+
+#~ msgid "Edit Menu Item"
+#~ msgstr "编辑菜单项目"
+
+#~ msgid "New Menu Item"
+#~ msgstr "新菜单项目"
+
+#~ msgid "View Menu Item"
+#~ msgstr "查看菜单项目"
+
+#~ msgid "Search Menu Items"
+#~ msgstr "搜索菜单项目"
+
+#~ msgid "No Menu Item found"
+#~ msgstr "没有找到菜单项目"
+
+#~ msgid "No Menu Item found in Trash"
+#~ msgstr "回收站里没有找到菜单项目"
+
+#~ msgid "menu-item"
+#~ msgstr "菜单-项目"
+
+#~ msgid "Menu Item Types"
+#~ msgstr "菜单项目类型"
+
+#~ msgid "Menu Item Type"
+#~ msgstr "菜单项目类型"
+
+#~ msgid "Search Menu Item Types"
+#~ msgstr "搜索菜单项目类型"
+
+#~ msgid "Popular Menu Item Types"
+#~ msgstr "流行菜单项目类型"
+
+#~ msgid "All Menu Item Types"
+#~ msgstr "所有菜单项目类型"
+
+#~ msgid "Parent Menu Item Type"
+#~ msgstr "上级菜单项目类型"
+
+#~ msgid "Parent Menu Item Type:"
+#~ msgstr "上级菜单项目类型："
+
+#~ msgid "Edit Menu Item Type"
+#~ msgstr "编辑菜单项目类型"
+
+#~ msgid "Update Menu Item Type"
+#~ msgstr "上传菜单项目类型"
+
+#~ msgid "Add New Menu Item Type"
+#~ msgstr "添加新菜单项目类型"
+
+#~ msgid "New Menu Item Type Name"
+#~ msgstr "新菜单项目类型名称"
+
+#~ msgid "Separate Menu Item Types with commas"
+#~ msgstr "用逗号隔开菜单项目类型"
+
+#~ msgid "Add or Remove Menu Item Types"
+#~ msgstr "添加或删除菜单项目类型"
+
+#~ msgid "Choose from the most used Menu Item Types"
+#~ msgstr "从最常用的菜单项目类型中选择"
+
+#~ msgid "menu-item-type"
+#~ msgstr "菜单-项目-类型"
+
+#~ msgid "Menu Item Title"
+#~ msgstr "菜单项目标题"
+
+#~ msgid "Pic"
+#~ msgstr "Pic"
+
+#~ msgid "Type"
+#~ msgstr "类型"
+
+#~ msgid "Price"
+#~ msgstr "价格"
+
+#~ msgid "Featured"
+#~ msgstr "特色的"
+
+#~ msgid "Additional Information"
+#~ msgstr "附加信息"
+
+#~ msgid "Menu Item Price"
+#~ msgstr "菜单项目价格"
+
+#~ msgid ""
+#~ "Please add Menu Item price with related currency sign. Example: "
+#~ "<strong>15.50$</strong> "
+#~ msgstr "请用相关的货币标志添加菜单项目价格，例如：<strong>15.50$</strong>"
+
+#~ msgid ""
+#~ "Mark this Menu Item as Featured if you want to display it on homepage."
+#~ msgstr "如果你想在首页显示这个菜单项目请标注为特色。"
+
+#~ msgid "Designation"
+#~ msgstr "名称"
+
+#~ msgid "Provide Team Member Designation Here."
+#~ msgstr "在此提供团队成员名称"
+
+#~ msgid "Special"
+#~ msgstr "特价商品"
+
+#~ msgid ""
+#~ "Mark this Team Member as Special if you want to display it on top of the "
+#~ "team page with big image."
+#~ msgstr "如果你想用大图片在团队页面显示团队成员请标注为特色。"
+
+#~ msgid "Testimonial Settings"
+#~ msgstr "评论设置"
+
+#~ msgid "Testimonial"
+#~ msgstr "评论"
+
+#~ msgid "Provide Testimonial Text"
+#~ msgstr "提供评论文本"
+
+#~ msgid "Author Name"
+#~ msgstr "作者名称"
+
+#~ msgid "Provide Name of Author"
+#~ msgstr "提供作者名称"
+
+#~ msgid "Testimonial Author Link"
+#~ msgstr "评论作者链接"
+
+#~ msgid "Provide The URL to author website or page."
+#~ msgstr "给另外的网站或者页面提供URL。"
+
+#~ msgid "Related Department"
+#~ msgstr "相关部门"
+
+#~ msgid "Provide the name of related department."
+#~ msgstr "提供相关部门名称。"
+
+#~ msgid "Team Members"
+#~ msgstr "团队成员"
+
+#~ msgid "Team Member"
+#~ msgstr "团队成员"
+
+#~ msgid "Add New Team Member"
+#~ msgstr "添加团队成员"
+
+#~ msgid "Edit Team Member"
+#~ msgstr "编辑团队成员"
+
+#~ msgid "New Team Member"
+#~ msgstr "新团队成员"
+
+#~ msgid "View Team Member"
+#~ msgstr "查看团队成员"
+
+#~ msgid "Search Team Member"
+#~ msgstr "搜索团队成员"
+
+#~ msgid "No Team Member found"
+#~ msgstr "没有找到团队成员"
+
+#~ msgid "No Team Member found in Trash"
+#~ msgstr "回收站里没有找到团队成员"
+
+#~ msgid "team-member"
+#~ msgstr "团队-成员"
+
+#~ msgid "Team Member Name"
+#~ msgstr "团队成员名称"
+
+#~ msgid "NA"
+#~ msgstr "NA"
+
+#~ msgid "Go to..."
+#~ msgstr "坐上火车去..."
+
+#~ msgid "Gallery Items with Type "
+#~ msgstr "有类型的图片集"
+
+#~ msgid "All"
+#~ msgstr "所有"
+
+#~ msgid "View all Gallery Items filed under %s"
+#~ msgstr "查看所有字段在%s以下的图片集"
+
+#~ msgid "Read More"
+#~ msgstr "阅读更多"
+
+#~ msgid "Displays list of featured menu items."
+#~ msgstr "显示特色菜单项目列表。"
+
+#~ msgid "Elegantia: Featured Menu Items"
+#~ msgstr "Elegantia:特色菜单项目"
+
+#~ msgid "Title"
+#~ msgstr "标题"
+
+#~ msgid "Number of Menu Items to display"
+#~ msgstr "要显示的菜单项目"
+
+#~ msgid "Displays List of Menu Types with links to their archive pages."
+#~ msgstr "显示有链接到他们的归档页面的菜单类型列表。"
+
+#~ msgid ""
+#~ "Show Recent or Popular or Random posts from your blog with thumbnails."
+#~ msgstr "从你的网站缩略图显示近期或者流行的或随机文章。"
+
+#~ msgid "Elegantia: Recent Posts With Thumbnail"
+#~ msgstr "Elegantia:有缩略图的近期文章"
+
+#~ msgid "Select Categories"
+#~ msgstr "选择类别"
+
+#~ msgid "Sort them by"
+#~ msgstr "通过...给他们排序"
+
+#~ msgid "Most Popular"
+#~ msgstr "最流行"
+
+#~ msgid "Most Recent"
+#~ msgstr "最近"
+
+#~ msgid "Random"
+#~ msgstr "随机"
+
+#~ msgid "Number of posts to display"
+#~ msgstr "要显示的文章号码"
+
+#~ msgid "Displays list of Upcoming Events."
+#~ msgstr "显示近期活动列表"
+
+#~ msgid "Elegantia: Upcoming Events"
+#~ msgstr "Elegantia:近期活动"
+
+#~ msgid "Number of Upcoming Events to display"
+#~ msgstr "要显示的近期活动列表"
