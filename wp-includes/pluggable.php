@@ -2210,8 +2210,10 @@ if ( !function_exists( 'get_avatar' ) ) :
  *     @type string       $extra_attr    HTML attributes to insert in the IMG element. Is not sanitized. Default empty.
  * }
  * @return false|string `<img>` tag for the user's avatar. False on failure.
+ * avatar头像插件。我们直接返回false
  */
 function get_avatar( $id_or_email, $size = 96, $default = '', $alt = '', $args = null ) {
+	return false;
 	$defaults = array(
 		// get_avatar_data() args.
 		'size'          => 96,
